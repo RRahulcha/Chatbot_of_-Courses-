@@ -1,0 +1,82 @@
+SETTRIBE - INTERNSHIP DETAILS
+
+INTERNSHIP PROGRAM:
+SETTribe internships provide practical technology exposure through project-based learning and professional activities.
+
+INTERNSHIP PROCESS:
+The exact process may vary depending on the internship opportunity.
+
+A typical internship may involve:
+
+* Application
+* Selection or eligibility verification
+* Program onboarding
+* Technical/project assignment
+* Mentorship and guidance
+* Project development
+* Project completion
+* Final evaluation or presentation
+* Certificate, where applicable
+
+PROJECT WORK:
+Interns may work on technology projects related to their selected domain.
+
+Project activities may include:
+
+* Requirement understanding
+* Development
+* Testing
+* Debugging
+* Data analysis
+* Documentation
+* Presentation
+* Project deployment, where applicable
+
+TECHNICAL DOMAINS:
+Depending on available opportunities, internship projects may involve:
+
+* Python
+* Web Development
+* Data Analytics
+* Data Science
+* Artificial Intelligence
+* Software Development
+* Cyber Security
+* Other technology domains
+
+INDUSTRY EXPOSURE:
+Internship projects can provide exposure to professional development practices, project workflows, collaboration, technical problem solving, and project documentation.
+
+MENTORSHIP:
+Mentors or experienced professionals may provide guidance during project activities depending on the internship structure.
+
+CERTIFICATE:
+Certificate availability and certification conditions depend on the specific internship program. The chatbot should not guarantee a certificate unless the relevant official internship information confirms it.
+
+DURATION:
+Internship duration varies according to the specific internship program. The chatbot should retrieve the exact duration from the current internship information rather than assuming a standard duration.
+
+ELIGIBILITY:
+Eligibility requirements depend on the individual internship opportunity.
+
+FEES:
+Any internship fee must be taken from the current official internship information. The chatbot must not invent or assume an internship fee.
+
+CAREER BENEFITS:
+An internship can help participants:
+
+* Build practical experience
+* Develop project portfolios
+* Improve technical skills
+* Practice professional communication
+* Understand industry workflows
+* Prepare for technical interviews
+* Demonstrate project experience to employers
+
+IMPORTANT:
+Specific internship information such as duration, fees, eligibility, project title, technology stack, certificate conditions, application process, and current availability must be taken from verified SETTribe information.
+
+If information is not available in the knowledge base, the chatbot should clearly state that the information is unavailable rather than creating an answer.
+
+SOURCE:
+Official SETTribe internship information and verified program documentation.

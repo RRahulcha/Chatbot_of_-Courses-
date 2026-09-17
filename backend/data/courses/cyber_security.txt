@@ -1,0 +1,33 @@
+Cyber Security course content
+1. COURSE NAME:
+Cyber Security & Hacking
+
+2. DURATION:
+5 months
+
+3.FEES: 5000/-
+
+4. MODE:
+Online / Offline
+
+5. LOCATION:
+Pune, Maharashtra
+
+6. TOOLS:
+- Nmap
+- Wireshark
+- Nessus
+- Metasploit
+- Kali Linux
+
+7. SKILLS:
+- Network Security
+- Ethical Hacking
+- Vulnerability Assessment
+- Penetration Testing
+- Web Application Security
+- Security Auditing
+- Incident Response
+
+8.CAREER SUPPORT:
+Job Readiness

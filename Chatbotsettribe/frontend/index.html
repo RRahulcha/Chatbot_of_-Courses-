@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SETTribe AI Assistant</title>
+    <link rel="stylesheet" href="css/chatbot.css">
+</head>
+<body>
+    <div id="chatbot-widget">
+        <div class="chatbot-header">
+            <h3>SETTribe AI Assistant</h3>
+            <p>Ask about courses, internships & careers</p>
+            <button type="button" id="clear-chat-btn" aria-label="Clear chat">Clear chat</button>
+        </div>
+        <div id="chat-messages" class="chatbot-messages">
+        </div>
+        <form id="chat-form" class="chatbot-input">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <button id="send-btn" type="submit">Send</button>
+        </form>
+    </div>
+    <script src="js/chatbot.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+Data Analytics course content
+1. COURSE NAME:
+Data Analyst
+
+2. DURATION:
+5 months
+
+3. MODE:
+Online / Offline
+
+4. LOCATION:
+Pune, Maharashtra
+
+5. TOOLS:
+- Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+- GitHub
+
+6. SKILLS:
+- Data Cleaning
+- SQL
+- Python
+- Excel
+- Data Visualization
+- Power BI
+- Tableau
+- Statistics
+- Exploratory Data Analysis
+- Dashboard Development

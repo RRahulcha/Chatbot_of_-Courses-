@@ -1,0 +1,57 @@
+SETTRIBE - INTERNSHIP OVERVIEW
+
+SETTribe provides internship opportunities designed to give students, graduates, and learners practical exposure to technology and professional work environments.
+
+PURPOSE:
+The internship program is intended to help learners apply technical knowledge through practical work, projects, mentorship, and industry-oriented activities.
+
+INTERNSHIP AREAS:
+Internship opportunities may be available in areas such as:
+
+* Software Development
+* Web Development
+* Python
+* Data Analytics
+* Data Science
+* Artificial Intelligence
+* Cyber Security
+* Other technology-related domains depending on current opportunities
+
+PRACTICAL LEARNING:
+Interns may work on practical assignments and projects related to their selected technology domain.
+
+INDUSTRY EXPOSURE:
+Internships are intended to provide exposure to:
+
+* Real-world project workflows
+* Development practices
+* Problem solving
+* Team collaboration
+* Technical documentation
+* Professional communication
+
+MENTORSHIP:
+Interns may receive technical guidance and mentorship during their internship, depending on the specific internship program.
+
+SKILL DEVELOPMENT:
+The internship experience can help learners strengthen:
+
+* Technical skills
+* Programming skills
+* Problem-solving
+* Communication
+* Teamwork
+* Project development
+* Professional skills
+
+CAREER BENEFIT:
+An internship can help learners build practical experience, strengthen their portfolio, understand professional workflows, and prepare for future employment opportunities.
+
+ELIGIBILITY:
+Eligibility depends on the specific internship opportunity and its requirements.
+
+IMPORTANT:
+The exact internship duration, technology stack, project, certificate, eligibility, fees, and other conditions should be taken from the relevant current internship details.
+
+SOURCE:
+Official SETTribe internship information.

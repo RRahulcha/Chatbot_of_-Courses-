@@ -1,0 +1,37 @@
+DevOps course content
+1. COURSE NAME:
+DevOps
+
+2. DURATION:
+Not specified
+
+3. MODE:
+Online / Offline
+
+4. LOCATION:
+Pune, Maharashtra
+
+5. TOOLS:
+- Linux
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- AWS
+- Terraform
+- Ansible
+
+6. SKILLS:
+- Linux Administration
+- Version Control
+- Git and GitHub
+- Continuous Integration
+- Continuous Deployment
+- CI/CD
+- Docker
+- Kubernetes
+- Cloud Computing
+- Infrastructure as Code
+- Automation
+- DevOps Practices

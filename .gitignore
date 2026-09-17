@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Local data stores (regenerate via ingestion / DB migrations)
+chroma_db/
+backend/chroma_db/
+backend/app/chroma_db/
+*.db
+
+# Editor
+.vscode/

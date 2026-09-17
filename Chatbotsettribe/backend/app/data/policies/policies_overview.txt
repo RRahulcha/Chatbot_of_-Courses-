@@ -1,0 +1,73 @@
+SETTRIBE - POLICIES OVERVIEW
+
+PURPOSE:
+This section contains general policy information related to SETTribe courses, internships, payments, refunds, participation, certification, privacy, and terms of service.
+
+GENERAL POLICY:
+Users and participants are expected to follow the applicable rules and requirements of the course, internship, or program they join.
+
+COURSE POLICIES:
+Course-related rules may cover:
+
+* Enrollment
+* Attendance
+* Learning activities
+* Assignments
+* Projects
+* Assessments
+* Certification
+* Program participation
+
+INTERNSHIP POLICIES:
+Internship-related rules may cover:
+
+* Eligibility
+* Application
+* Attendance
+* Project participation
+* Professional conduct
+* Project completion
+* Evaluation
+* Certification
+
+PAYMENT POLICY:
+Payment terms depend on the specific course or program. Users should refer to the current official payment information before making a payment.
+
+REFUND POLICY:
+Refund eligibility and conditions depend on the applicable SETTribe program and its current refund terms.
+
+CERTIFICATION:
+Certification requirements depend on the specific course or internship. A certificate should not be guaranteed unless the applicable official program information confirms the conditions.
+
+ATTENDANCE:
+Participants may be expected to maintain the required attendance and participate in scheduled learning, project, or internship activities.
+
+PROFESSIONAL CONDUCT:
+Participants are expected to behave professionally and follow applicable organizational and program rules.
+
+PRIVACY:
+User information should be handled according to the applicable privacy policy and terms provided by SETTribe.
+
+TERMS AND CONDITIONS:
+Users are expected to follow the terms and conditions applicable to the services, programs, courses, or internships they use.
+
+IMPORTANT:
+The chatbot must not invent policy conditions.
+
+For questions involving:
+
+* Fees
+* Refunds
+* Cancellation
+* Attendance requirements
+* Certification requirements
+* Internship rules
+* Terms and conditions
+* Privacy
+
+the chatbot should use the detailed policy information available in the knowledge base.
+
+If a policy is not available or cannot be verified, the chatbot should clearly state that the information is unavailable and direct the user to SETTribe's official communication channel.
+
+SOURCE:
+Official SETTribe policy and program information.

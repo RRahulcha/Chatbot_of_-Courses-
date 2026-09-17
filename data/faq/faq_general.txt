@@ -1,0 +1,129 @@
+SETTRIBE - GENERAL FAQ
+
+GENERAL QUESTIONS
+
+QUESTION:
+What is SETTribe?
+
+ANSWER:
+SETTribe is an IT company specializing in e-Governance and scalable digital solutions. The company works on software development, digital platforms, dashboards, data systems, government technology solutions, education, and employability initiatives.
+
+QUESTION:
+What does SETTribe do?
+
+ANSWER:
+SETTribe develops technology solutions such as web applications, mobile applications, dashboards, digital platforms, workflow systems, data-management systems, and e-Governance solutions.
+
+QUESTION:
+What is SETTribe known for?
+
+ANSWER:
+SETTribe focuses strongly on e-Governance and digital solutions for government and administrative use cases, along with software development, data systems, education, and employability initiatives.
+
+QUESTION:
+Does SETTribe work with government organizations?
+
+ANSWER:
+Yes. SETTribe develops digital technology solutions for government and public-administration use cases, including dashboards, monitoring systems, field inspection systems, workflow platforms, and other administrative solutions.
+
+QUESTION:
+What technology areas does SETTribe work in?
+
+ANSWER:
+SETTribe's technology work includes software development, web applications, mobile applications, APIs, dashboards, data analytics, data visualization, workflow automation, and digital platforms.
+
+QUESTION:
+What is STEP?
+
+ANSWER:
+STEP stands for Skill Transition & Employability Program. It is an initiative by SETTribe focused on technical skills, practical projects, industry-oriented learning, mentorship, and career preparation.
+
+QUESTION:
+Who is STEP for?
+
+ANSWER:
+STEP is designed for students, graduates, early-career learners, and professionals who want to develop industry-relevant skills and prepare for professional careers.
+
+QUESTION:
+What is the STEP learning model?
+
+ANSWER:
+STEP follows a Learn → Apply → Transition approach. Learners develop skills, apply them through practical projects, and prepare for the transition into professional careers.
+
+QUESTION:
+What programs are available through STEP?
+
+ANSWER:
+STEP includes technology-focused programs such as Data Analytics, Data Science and AI, Web Development, SDET, Cyber Security, and DevOps, subject to current program availability.
+
+QUESTION:
+Does SETTribe provide internships?
+
+ANSWER:
+Yes. SETTribe provides internship opportunities in technology-related areas. Exact internship details depend on the specific opportunity.
+
+QUESTION:
+Who can apply for internships?
+
+ANSWER:
+Eligibility depends on the specific internship opportunity. Students, graduates, and learners may be eligible according to the applicable requirements.
+
+QUESTION:
+Where is SETTribe located?
+
+ANSWER:
+SETTribe is headquartered in Pune, Maharashtra, India. For the current office address and contact details, users should refer to the official SETTribe contact information.
+
+QUESTION:
+How can I contact SETTribe?
+
+ANSWER:
+Users should use the official SETTribe website and its current contact or inquiry channels for course, internship, program, and business inquiries.
+
+QUESTION:
+Does SETTribe provide career support?
+
+ANSWER:
+Career support can include resume preparation, LinkedIn guidance, interview preparation, mock interviews, communication skills, HR preparation, and professional development depending on the program.
+
+QUESTION:
+Does SETTribe provide placement?
+
+ANSWER:
+Career and placement assistance depends on the specific program and its current terms. The chatbot should not promise guaranteed placement, employment, salary, or a specific job outcome unless officially stated.
+
+QUESTION:
+Can beginners join SETTribe programs?
+
+ANSWER:
+Eligibility depends on the specific course or program. Beginners should check the requirements of the selected program.
+
+QUESTION:
+What government projects has SETTribe worked on?
+
+ANSWER:
+SETTribe has worked on government technology and e-Governance projects involving migration tracking, government dashboards, Zilla Parishad systems, field inspection, work monitoring, district administration, tribal development, and other public-service applications.
+
+QUESTION:
+What is MahaMTS?
+
+ANSWER:
+MahaMTS stands for Maharashtra Migration Tracking System. It is a migration-tracking system developed and maintained by SETTribe.
+
+QUESTION:
+What is One District One Dashboard?
+
+ANSWER:
+One District One Dashboard is a digital governance solution designed to integrate departmental information into centralized dashboards for monitoring and executive oversight.
+
+QUESTION:
+Does SETTribe work on social-impact projects?
+
+ANSWER:
+Yes. SETTribe's technology work includes projects related to governance, education, employability, migration, tribal development, rural administration, field monitoring, and other community-oriented use cases.
+
+QUESTION:
+What should I do if the chatbot does not know an answer?
+
+ANSWER:
+If verified information is not available in the knowledge base, the chatbot should clearly state that it does not have sufficient information and recommend contacting SETTribe through its official communication channel.

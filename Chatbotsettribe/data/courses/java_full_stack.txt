@@ -1,0 +1,29 @@
+Java Full Stack course content
+1. COURSE NAME:
+Java Full Stack Developer
+
+2. DURATION:
+Not specified
+
+3. MODE:
+Online / Offline
+
+4. LOCATION:
+Pune, Maharashtra
+
+5. TOOLS:
+- Java
+- Spring Boot
+- Hibernate
+- MySQL
+
+6. SKILLS:
+- Java Programming
+- Object-Oriented Programming
+- Backend Development
+- Spring Boot
+- Hibernate
+- Database Management
+- MySQL
+- Full Stack Development
+- REST API Development

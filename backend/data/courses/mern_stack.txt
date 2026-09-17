@@ -1,0 +1,38 @@
+MERN Stack course content
+1. COURSE NAME:
+MERN Stack Development
+
+2. DURATION:
+Not specified
+
+3. FEES: 5000/-
+
+4. MODE:
+Online / Offline
+
+5. LOCATION:
+Pune, Maharashtra
+
+6. TOOLS:
+- MongoDB
+- Express.js
+- React
+- Node.js
+- JavaScript
+- Git
+- GitHub
+
+7. SKILLS:
+- JavaScript
+- React Development
+- Frontend Development
+- Node.js
+- Backend Development
+- REST API Development
+- MongoDB
+- Database Management
+- Full Stack Development
+
+
+CAREER SUPPORT:
+Job Readiness
