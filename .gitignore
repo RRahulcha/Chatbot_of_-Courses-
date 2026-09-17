@@ -15,3 +15,12 @@ backend/app/chroma_db/
 
 # Editor
 .vscode/
+
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+*.db
+*.sqlite3
