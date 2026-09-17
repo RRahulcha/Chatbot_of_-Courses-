@@ -24,3 +24,13 @@ __pycache__/
 chroma_db/
 *.db
 *.sqlite3
+
+# Local duplicate project - keep locally, do not commit 
+Chatbotsettribe/ 
+
+# Local Chroma databases 
+chroma.sqlite3 
+**/chroma/chroma.sqlite3 
+
+# Backup source files
+*.backup 
